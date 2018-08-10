@@ -1,17 +1,19 @@
-[
-  {
-    "id": 1,
-    "name": "Iris",
-    "count": 3
-  },
-  {
-    "id": 2,
-    "name": "Mesh",
-    "count": 0
-  },
-  {
-    "id": 3,
-    "name": "WorkSpace",
-    "count": 5
-  }  
-]
+{
+  "components": [
+    {
+      "id": 1,
+      "name": "Iris",
+      "count": 3
+    },
+    {
+      "id": 2,
+      "name": "Mesh",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "WorkSpace",
+      "count": 5
+    }  
+  ]
+}
