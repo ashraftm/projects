@@ -1,8 +1,17 @@
-{
-  "projects": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Iris",
+    "count": 3
+  },
+  {
+    "id": 2,
+    "name": "Mesh",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "WorkSpace",
+    "count": 5
+  }  
+]
