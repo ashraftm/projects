@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Iris",
-      "count": 3
+      "featureCount": 3
     },
     {
       "id": 2,
       "name": "Mesh",
-      "count": 0
+      "featureCount": 0
     },
     {
       "id": 3,
       "name": "WorkSpace",
-      "count": 5
+      "featureCount": 5
     }  
   ]
 }
