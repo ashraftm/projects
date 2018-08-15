@@ -15,5 +15,52 @@
       "name": "WorkSpace",
       "featureCount": 5
     }  
-  ]
+  ],
+  "componentfeatures": [
+    {
+      "name": "Iris",
+      "features": [
+        {
+          "id": 1,
+          "name": "FeatureName1",
+          "groupCount": 2
+        },
+        {
+          "id": 2,
+          "name": "FeatureName2",
+          "groupCount": 3
+        }  
+      ]
+    },
+    {
+      "name": "Mesh",
+      "features": [
+        {
+          "id": 3,
+          "name": "FeatureName3",
+          "groupCount": 4
+        },
+        {
+          "id": 4,
+          "name": "FeatureName4",
+          "groupCount": 2
+        }  
+      ]
+    },
+    {
+      "name": "Workspace",
+      "features": [
+        {
+          "id": 5,
+          "name": "FeatureName5",
+          "groupCount": 1
+        },
+        {
+          "id": 6,
+          "name": "FeatureName6",
+          "groupCount": 7
+        }  
+      ]
+    },    
+  ]  
 }
