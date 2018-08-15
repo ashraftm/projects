@@ -1,4 +1,35 @@
 {
+  
+  "comp" : [
+    {
+      "id": 1,
+      "name": "ashraf",
+      "fea": [
+        {
+          "id":20,
+          "name": "fea20"
+        },
+        {
+          "id":20,
+          "name": "fea20"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "rayyan",
+      "fea": [
+        {
+          "id":20,
+          "name": "fea20"
+        },
+        {
+          "id":20,
+          "name": "fea20"
+        }
+      ]      
+    }    
+  ],   
   "components": [
     {
       "id": 1,
