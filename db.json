@@ -59,11 +59,6 @@
           "name": "FeatureName3",
           "groupCount": 4
         },
-        {
-          "id": 4,
-          "name": "FeatureName4",
-          "groupCount": 2
-        }  
       ]
     },
     {
@@ -71,16 +66,62 @@
       "name": "Workspace",
       "features": [
         {
-          "id": 5,
+          "id": 4,
           "name": "FeatureName5",
           "groupCount": 1
-        },
-        {
-          "id": 6,
-          "name": "FeatureName6",
-          "groupCount": 7
-        }  
+        } 
       ]
     }   
-  ]  
+  ],
+  "featuregroups": [
+    {
+      "id": 1,
+      "name": "FeatureName1",
+      "groups": [
+        {
+          "id": 1,
+          "name": "Group Name 1",
+          "isEnabled": true
+        },
+        {
+          "id": 2,
+          "name": "Group Name 2",
+          "isEnabled": false
+        }  
+      ]
+    },
+    {
+      "id": 2,
+      "name": "FeatureName2",
+      "groups": [
+        {
+          "id": 1,
+          "name": "Group Name 1",
+          "isEnabled": true
+        } 
+      ]
+    },
+    {
+      "id": 3,
+      "name": "FeatureName3",
+      "groups": [
+        {
+          "id": 1,
+          "name": "Group Name 1",
+          "isEnabled": true
+        } 
+      ]
+    },
+    {
+      "id": 4,
+      "name": "FeatureName4",
+      "groups": [
+        {
+          "id": 1,
+          "name": "Group Name 1",
+          "isEnabled": true
+        } 
+      ]
+    }	
+  ]    
 }
