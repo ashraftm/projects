@@ -67,7 +67,7 @@
       "features": [
         {
           "id": 4,
-          "name": "FeatureName5",
+          "name": "FeatureName4",
           "groupCount": 1
         } 
       ]
@@ -77,6 +77,10 @@
     {
       "id": 1,
       "name": "FeatureName1",
+      "component": {
+        "id": 1,
+        "name": "Iris"
+      },
       "groups": [
         {
           "id": 1,
@@ -93,6 +97,10 @@
     {
       "id": 2,
       "name": "FeatureName2",
+      "component": {
+        "id": 1,
+        "name": "Iris"
+      },
       "groups": [
         {
           "id": 1,
@@ -104,6 +112,10 @@
     {
       "id": 3,
       "name": "FeatureName3",
+      "component": {
+        "id": 2,
+        "name": "Mesh"
+      },
       "groups": [
         {
           "id": 1,
@@ -115,6 +127,10 @@
     {
       "id": 4,
       "name": "FeatureName4",
+      "component": {
+        "id": 3,
+        "name": "Workspace"
+      },
       "groups": [
         {
           "id": 1,
